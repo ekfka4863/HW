@@ -10,7 +10,7 @@ Here, 0<=i<=x; 0<=j<=y; 0<=k<=z. Please use list comprehensions rather than mult
 ```
 
 - Example:
-<img src="./HackerRank-List_Comprehension.png">
+<img src="././HackerRank-List_Comprehension.png">
 <br>
 <hr>
 
