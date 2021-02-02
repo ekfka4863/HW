@@ -1,8 +1,8 @@
 # HW - Factorial
-
+<br><br>
 ### This is actually an assignment from last week... 
 ### But anyway, today I'm going to talk about 3 ways how to handle factorial! 
-
+<br>
 So as I said, we do have 3 methods ... 
 
 >> 1. Using for-statement 
@@ -12,6 +12,8 @@ So as I said, we do have 3 methods ...
 >> 3. Using math library
 
 ---
+<br>
+
 ## Solution 1: For Statement
 ```
 a = int(input("팩토리얼을 구할 숫자를 입력하세요 : ")) 
