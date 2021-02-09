@@ -1,5 +1,10 @@
+---
+title: HW-factorial
+date: 2021-01-31 23:16:09
+tags: python, recursive function, factorial 
+---
 # HW - Factorial
-<br><br>
+
 ### This is actually an assignment from last week... 
 ### But anyway, today I'm going to talk about 3 ways how to handle factorial! 
 <br>
