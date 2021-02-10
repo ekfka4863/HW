@@ -16,12 +16,12 @@ tags: python, train operating system, 성수역, subway line number 2
 
 ### Start coding on paper
 <br>
-<img src="./TrainOperatingSytem_손코딩.jpg" alt="손코딩1">
+<img src="./TrainOperatingSystem_손코딩.jpg" alt="손코딩1">
 
-<img src="./TrainOperatingSytem_손코딩2.jpg"  alt="손코딩2">
+<img src="./TrainOperatingSystem_손코딩2.jpg"  alt="손코딩2">
 
 ---
 
 ### Coding on Jupyter
 <br>
-<img src="./TrainOperatingSytem.png" alt="jupyter에서 한 코딩 캡쳐본">
+<img src="./TrainOperatingSystem.png" alt="jupyter에서 한 코딩 캡쳐본">
