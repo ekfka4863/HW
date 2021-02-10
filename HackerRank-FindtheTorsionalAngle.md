@@ -41,12 +41,12 @@ if __name__ == '__main__':
 
 ### Start coding on paper
 <br>
-<img src="" alt="손코딩1">
+<img src="./FindtheTorsionalAngle_손코딩.jpg" alt="손코딩1">
 
-<img src="" alt="손코딩2">
+<img src="./FindtheTorsionalAngle_손코딩2.jpg"  alt="손코딩2">
 
 ---
 
 ### Coding on Jupyter
 <br>
-<img src="" alt="jupyter에서 한 코딩 캡쳐본">
+<img src="./FindtheTorsionalAngle.png" alt="jupyter에서 한 코딩 캡쳐본">
