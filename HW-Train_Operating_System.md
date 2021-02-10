@@ -24,4 +24,4 @@ tags: python, train operating system, 성수역, subway line number 2
 
 ### Coding on Jupyter
 <br>
-<img src="./TrainOperatingSystem.png" alt="jupyter에서 한 코딩 캡쳐본">
+<img src="./TrainOperatingSystem_jupyter.png" alt="jupyter에서 한 코딩 캡쳐본">
